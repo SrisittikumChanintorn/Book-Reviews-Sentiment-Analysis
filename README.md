@@ -101,13 +101,6 @@ The project provides:
 - Combining both approaches provides more robust sentiment insights
 - Ratings and sentiment scores show strong correlation, validating both methods
 
-## 🔮 Future Work
-
-- Incorporate aspect-based sentiment analysis
-- Experiment with different transformer models
-- Add interactive visualization dashboard
-- Extend analysis to compare books by genre
-- Implement time-series analysis for tracking sentiment changes over time
 
 ## 📄 License
 
