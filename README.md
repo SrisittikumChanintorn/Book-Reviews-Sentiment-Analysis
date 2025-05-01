@@ -11,7 +11,7 @@ A comparative sentiment analysis of book reviews using both rule-based (VADER) a
 
 This project analyzes sentiment in book reviews using two complementary models:
 
-1. **VADER (Valence Aware Dictionary and sEntiment Reasoner)**: A lexicon and rule-based sentiment analysis tool specifically designed for social media content and short texts.
+1. **VADER (Valence Aware Dictionary and Sentiment Reasoner)**: A lexicon and rule-based sentiment analysis tool specifically designed for social media content and short texts.
 
 2. **Transformer-based model (DistilBERT)**: A pre-trained transformer model fine-tuned for sentiment classification.
 
